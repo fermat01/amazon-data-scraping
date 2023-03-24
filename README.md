@@ -1,6 +1,4 @@
 ## amazon-data-scraping
-
-![GitHub](https://img.shields.io/github/license/fermat01/amazon-data-scraping?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/fermat01/amazon-data-scraping?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/fermat01/amazon-data-scraping?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/fermat01/amazon-data-scraping?style=flat)
